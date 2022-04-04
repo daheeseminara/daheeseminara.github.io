@@ -6,8 +6,6 @@ I'm an MBA candidate at Lehigh University! I'll be graduating in May 2022 and jo
 
 ## Portfolio
 
-<!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
-
 _**[Midterm Analysis Report](analysis_report/analysis_report.md)**_
 
 ---
