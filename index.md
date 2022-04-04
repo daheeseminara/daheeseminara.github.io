@@ -1,6 +1,6 @@
 ## About Me
 
-I'm an MBA candidate at Lehigh University! I'll be graduating in May 2022 and join Ramp as a Business Development Associate.
+I'm an MBA candidate at Lehigh University! After graduating in May 2022, I'll be joining Ramp as a Business Development Associate. 
 
 ---
 
