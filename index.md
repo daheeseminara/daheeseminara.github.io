@@ -18,21 +18,21 @@ _**[Natural language processing 10-Ks to identify risks](10k_nlp_covid)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 
 _**[Regression Practice](Regression_practice)**_
 
 Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+---
+
+_**[Website practice](Website_practice)**_
+
+Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
 
 ---
 
 _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
