@@ -5,7 +5,7 @@ I'm an MBA candidate at Lehigh University!
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/Dahee Seminara.jpeg" width="50%">
+  <img class="img-circle" src="https://github.com/daheeseminara/daheeseminara.github.io/raw/master/images/Dahee Seminara.jpeg" width="50%">
 </p>
 
 ---
