@@ -1,8 +1,3 @@
----
-layout: wide_default
----    
-
-
 ## About Me
 
 I'm an MBA candidate at Lehigh University! 
