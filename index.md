@@ -1,12 +1,6 @@
 ## About Me
 
-I'm an MBA candidate at Lehigh University! 
-
-<!-- Upload your own photo and change the path -->
-
-<p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/daheeseminara/daheeseminara.github.io/raw/master/images/Dahee Seminara.jpeg" width="50%">
-</p>
+I'm an MBA candidate at Lehigh University! I'll be graduating in May 2022 and join Ramp as a Business Development Associate.
 
 ---
 
@@ -14,45 +8,22 @@ I'm an MBA candidate at Lehigh University!
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](10k_nlp_covid)**_
-
-You can show off your midterm analysis by moving the report components and output into this file. Or...
-
----
-
-_**[Regression Practice](Regression_practice)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
----
-
 _**[Midterm Analysis Report](analysis_report/analysis_report.md)**_
 
-
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Final Team Project](https://faz320.github.io/MBAsuperwomen/)**_
 
----
-
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ## Career Objectives
 
-Write what you want. 
+I’m a creative and strategic problem-solver who sees convergence in people and creates win-win solutions. Outside of my diverse experience in financial services, I have passion for planning, connecting with people and creating meaningful experiences – anything from a gig in event planning to team events and networking outings. My absolute favorite was working as a special event planner for an independent movie at Lincoln Center. 
 
-Sell yourself!
-
----
-
-## Hobbies
-
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+With top CliftonStrengths of Empathy, Developer, WOO, Positivity, and Communication, I am best utilized where I can deploy these strengths to create connections, build trust and plan strategic collaborations in the best interest of my team, clients and company.
 
 ---
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
