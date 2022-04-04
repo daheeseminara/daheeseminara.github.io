@@ -26,7 +26,7 @@ Or: The process that created this page can be used to show off your whole midter
 
 ---
 
-_**[Website Practice](Website_practice.md)**_
+_**[Midterm Analysis Report](analysis_report/analysis_report.md)**_
 
 
 ---
