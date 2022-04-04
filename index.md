@@ -28,7 +28,6 @@ Or: The process that created this page can be used to show off your whole midter
 
 _**[Website practice](Website_practice)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
 
 ---
 
