@@ -26,7 +26,7 @@ Or: The process that created this page can be used to show off your whole midter
 
 ---
 
-_**[Website practice](Website_practice)**_
+_**[Website Practice](Website_practice.md)**_
 
 
 ---
