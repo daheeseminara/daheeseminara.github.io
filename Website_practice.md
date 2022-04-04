@@ -1,3 +1,9 @@
+---
+layout: wide_default
+---    
+
+
+
 # Module 4 Notes - 5.2.3 and 5.2.4
 
 ## 5.2.3. Goodness of Fit
